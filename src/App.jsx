@@ -21,6 +21,8 @@ function App() {
       <Features />
       <Feature />
       <Possibility />
+      <Cta />
+      <Blog />
       <Footer />
      </div>
     </>
